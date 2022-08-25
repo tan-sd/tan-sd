@@ -4,7 +4,7 @@
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://tan-sd.github.io)
-[![website](./img/globe-dark.svg)](https://tan-sd.github.io)
+<!-- [![website](./img/globe-dark.svg)](https://tan-sd.github.io) -->
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
