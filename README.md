@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheng Da
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently a sophomore in Singapore Management University, pursuing a Bachelor of Science (Information Systems) degree
+- 👀 I’m interested in Web Development
 
 ### Languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
