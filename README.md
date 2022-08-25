@@ -14,13 +14,9 @@
 <br><br>
 
 ### Connect with me:
-<!-- [![website](./img/globe-light.svg)](https://tan-sd.github.io) -->
-<!-- [![website](./img/globe-dark.svg)](https://tan-sd.github.io) -->
 <a href='https://tan-sd.github.io' target='_blank'><img align="left" alt="Portfolio Website" width="26px" src="./img/globe-dark.svg" style="padding-right:10px;" /></a>
-<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only) -->
-<a href='https://tan-sd.github.io' target='_blank'><img align="left" alt="Portfolio Website" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" /></a>
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only) -->
-<a href='https://tan-sd.github.io' target='_blank'><img align="left" alt="Portfolio Website" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" /></a>
+<a href='https://www.linkedin.com/in/shengdatan/' target='_blank'><img align="left" alt="Portfolio Website" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" /></a>
+<a href='https://www.instagram.com/shengdaa/' target='_blank'><img align="left" alt="Portfolio Website" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" /></a>
 
 <!---
 tan-sd/tan-sd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
