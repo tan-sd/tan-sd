@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheng Da
-- 🌱 I’m currently a sophomore in Singapore Management University, pursuing a Bachelor of Science (Information Systems) degree
+- 🌱 I’m currently a penultimate student in Singapore Management University, pursuing a Bachelor of Science (Information Systems) degree
 - 👀 I’m interested in Web Development
 
 ### Languages:
