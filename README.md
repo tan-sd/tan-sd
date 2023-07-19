@@ -15,6 +15,9 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 tan-sd/tan-sd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
