@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋  Hi, I'm Sheng Da (You can also call me Caleb!)
 - 🌍  I'm based in Singapore
-- 🎓  Currently a penultimate student in Singapore Management University, pursuing a Bachelor of Science (Information Systems) degree
+- 🎓  Penultimate student at Singapore Management University, Information Systems
 - 🖥️  See my portfolio at [tan-sd.github.io](https://tan-sd.github.io/)
 - 📫  Contact me at [shengdatan@gmail.com](mailto:shengdatan@gmail.com/)
 
