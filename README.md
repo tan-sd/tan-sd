@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-JavaScript   7 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.50 %
-CSS          6 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
+JavaScript   7 hrs 27 mins   █████████████░░░░░░░░░░░░   52.40 %
+CSS          6 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.49 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
