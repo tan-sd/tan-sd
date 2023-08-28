@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-Vue.js           6 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.77 %
-JavaScript       6 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.71 %
-CSS              3 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Ezhil            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Bash             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Vue.js           13 hrs          ██████████████▒░░░░░░░░░░   57.20 %
+JavaScript       7 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.57 %
+CSS              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Ezhil            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Bash             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
