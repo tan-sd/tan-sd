@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
 JavaScript     5 hrs 26 mins   ███████████████████▓░░░░░   78.21 %
 C#             1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
