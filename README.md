@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 Python       51 mins         █████████████▓░░░░░░░░░░░   54.06 %
 Vue.js       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
