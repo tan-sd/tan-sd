@@ -11,12 +11,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Vue.js       7 hrs 15 mins   █████████████████▓░░░░░░░   71.08 %
-C#           1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JavaScript   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Vue.js       7 hrs 43 mins   ██████████████████░░░░░░░   72.33 %
+C#           1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+JavaScript   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
