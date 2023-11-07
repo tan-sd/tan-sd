@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 29 October 2023 - To: 05 November 2023
 
-JavaScript   4 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.57 %
-C#           2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-Vue.js       1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Other        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript   3 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.36 %
+C#           3 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
+Vue.js       1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Other        41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
