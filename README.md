@@ -11,11 +11,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-C#      7 hrs 51 mins   ████████████████████▓░░░░   82.85 %
-Other   1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-JSON    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C#      8 hrs 12 mins   ██████████████████████▓░░   91.13 %
+Other   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
 ```
 
 <!--END_SECTION:waka-->
