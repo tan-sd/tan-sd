@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Python       4 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.20 %
-Batchfile    3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.59 %
-Java         2 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Batchfile    2 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.30 %
+Python       2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 %
+Java         1 hr 38 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Git Config   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
