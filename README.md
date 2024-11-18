@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-JavaScript        23 hrs 9 mins   ███████████████▓░░░░░░░░░   63.33 %
-Python            8 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-Bash              1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Vue.js            1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JSON              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JavaScript        32 hrs 3 mins   █████████████████▓░░░░░░░   70.85 %
+Python            7 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Bash              2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Vue.js            1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JSON              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
