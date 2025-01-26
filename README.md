@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
 JavaScript   2 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.29 %
 Java         2 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.76 %
