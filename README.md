@@ -11,13 +11,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
-JavaScript   2 hrs 43 mins   ████████████████████▒░░░░   81.13 %
-Java         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
