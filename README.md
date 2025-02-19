@@ -11,12 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
-Java        22 mins         ████████████░░░░░░░░░░░░░   48.19 %
-Bash        15 mins         ████████░░░░░░░░░░░░░░░░░   32.42 %
-Batchfile   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Python      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+HTML        26 mins         █████████▒░░░░░░░░░░░░░░░   37.97 %
+Java        22 mins         ████████░░░░░░░░░░░░░░░░░   32.62 %
+CSS         15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+Bash        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Python      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
