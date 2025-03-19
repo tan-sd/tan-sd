@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-HTML     1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.80 %
-Vue.js   56 mins         ████████▒░░░░░░░░░░░░░░░░   32.82 %
-Java     26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-XML      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Vue.js   1 hr 10 mins    █████████▓░░░░░░░░░░░░░░░   38.52 %
+HTML     1 hr 9 mins     █████████▒░░░░░░░░░░░░░░░   37.61 %
+Java     26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+XML      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
