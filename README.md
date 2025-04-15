@@ -11,12 +11,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Vue.js       5 hrs 51 mins   ████████████████████████▓   98.66 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vue.js   1 hr 13 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
